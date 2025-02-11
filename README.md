@@ -76,7 +76,7 @@
 
 #### Networking
 <div align="center">
-    <a href="https://mikrotik.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mikrotik_logo_2019.svg/1024px-Mikrotik_logo_2019.svg.png" alt="Mikrotik" height="50" /></a>
+    <a href="https://mikrotik.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/MikroTik_logo.svg" alt="Mikrotik" height="50" /></a>
 </div>
 
 ---
